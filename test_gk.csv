@@ -1,0 +1,88 @@
+ID,Age,Nationality,Potential,Club,Wage,Special,Preferred Foot,International Reputation,Weak Foot,Skill Moves,Work Rate,Body Type,Position,Joined,Contract Valid Until,Height,Weight,Release Clause,General,GK
+188943,27,Germany,81,Eintracht Frankfurt,61.0,1191,Right,2.0,4.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,190.0,,29.586206896551722,79.0
+206652,24,Spain,83,Fulham,13.0,1204,Right,2.0,3.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,76.0,194.0,,30.06896551724138,78.4
+203775,25,Germany,83,Beşiktaş JK,71.0,1228,Right,2.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2020.0,74.0,192.0,,30.896551724137932,78.4
+176550,29,Colombia,79,Napoli,80.0,1172,Right,2.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,72.0,176.0,,28.93103448275862,78.6
+216065,26,Italy,81,Frosinone,22.0,1241,Right,2.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,76.0,192.0,,31.655172413793103,76.4
+185181,29,Spain,76,Real Valladolid CF,18.0,1200,Right,2.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,73.0,172.0,,30.310344827586206,75.6
+243952,19,Ukraine,88,CD Leganés,24.0,1078,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,75.0,176.0,,26.103448275862068,75.4
+191011,27,Italy,78,Parma,36.0,1150,Left,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,73.0,165.0,,29.310344827586206,72.6
+212067,29,Colombia,76,Deportivo Cali,5.0,1246,Left,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2018.0,73.0,176.0,,31.448275862068964,73.2
+192009,25,Mexico,77,Lobos BUAP,22.0,1217,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2018.0,73.0,187.0,,31.20689655172414,72.4
+163873,35,Portugal,74,Vitesse,34.0,1212,Right,2.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,194.0,,31.275862068965516,73.2
+204367,26,Netherlands,76,NAC Breda,11.0,1183,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,176.0,,30.482758620689655,72.2
+204549,24,Belgium,77,Waasland-Beveren,10.0,1229,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,190.0,,31.620689655172413,71.6
+228413,21,Italy,85,Sampdoria,30.0,1120,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,75.0,176.0,,27.689655172413794,74.6
+206218,24,France,78,KSV Cercle Brugge,27.0,1103,Right,1.0,3.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,74.0,181.0,,26.93103448275862,71.4
+233306,21,England,83,Sheffield United,31.0,1123,Right,1.0,3.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,75.0,187.0,,27.896551724137932,70.6
+223898,21,France,82,Nîmes Olympique,13.0,1030,Left,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,75.0,172.0,,24.896551724137932,72.6
+169321,30,Mexico,71,U.N.A.M.,10.0,1294,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,72.0,183.0,,34.03448275862069,71.6
+186990,27,Mexico,72,Club Necaxa,20.0,1186,Right,1.0,4.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,73.0,181.0,,30.448275862068964,71.0
+211348,24,FYR Macedonia,77,Rayo Vallecano,4.0,1145,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,179.0,,29.137931034482758,70.6
+224953,22,Portugal,80,Aston Villa,17.0,1145,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,185.0,,29.17241379310345,70.0
+212710,22,Portugal,82,Vitória de Setúbal,35.0,1051,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,154.0,,26.06896551724138,69.8
+223071,32,Argentina,70,Club Atlético Huracán,6.0,1098,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,78.0,198.0,,27.275862068965516,68.2
+227186,22,Argentina,78,Club Atlético Tigre,8.0,1111,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,73.0,192.0,,27.655172413793103,68.6
+199574,27,France,71,ESTAC Troyes,9.0,1008,Right,2.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,205.0,,25.344827586206897,67.4
+215213,22,Argentina,78,SD Huesca,15.0,1151,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,187.0,,29.103448275862068,71.8
+206561,22,England,80,Wigan Athletic,15.0,987,Left,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,77.0,165.0,,23.24137931034483,69.6
+184585,30,Hungary,69,Hibernian,28.0,1089,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,203.0,,27.482758620689655,68.2
+234102,21,Romania,81,Genoa,12.0,1060,Right,1.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,74.0,172.0,,26.482758620689655,69.6
+231073,22,Serbia,80,US Cremonese,7.0,1095,Right,1.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,76.0,198.0,,27.689655172413794,69.0
+204966,24,Spain,75,Deportivo de La Coruña,31.0,1178,Left,1.0,3.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,72.0,159.0,,30.344827586206897,69.4
+201138,26,France,72,Angers SCO,3.0,1181,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,71.0,168.0,,30.896551724137932,69.2
+209332,24,Switzerland,77,FC Luzern,5.0,1148,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,176.0,,30.0,67.8
+205496,30,Brazil,69,Udinese,2.0,1094,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,75.0,187.0,,28.103448275862068,68.4
+228860,24,Netherlands,74,De Graafschap,5.0,1164,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,198.0,,30.137931034482758,67.8
+239120,19,Nigeria,82,Elche CF,1.0,1004,Right,1.0,3.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,77.0,201.0,,24.448275862068964,68.6
+202770,25,England,73,Accrington Stanley,14.0,998,Right,1.0,3.0,1.0,Medium/ Medium,Stocky,GK,2017.0,2019.0,75.0,212.0,,23.724137931034484,68.6
+173531,28,England,68,Millwall,4.0,1107,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,168.0,,28.655172413793103,67.8
+222951,21,Slovakia,76,Rotherham United,10.0,1096,Right,1.0,3.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,77.0,187.0,,27.75862068965517,68.4
+193272,25,Austria,72,SK Brann,9.0,1038,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2018.0,77.0,183.0,,26.17241379310345,66.0
+214271,25,Chile,72,CD Universidad de Concepción,3.0,1131,Right,1.0,2.0,1.0,Medium/ Medium,Stocky,GK,2017.0,2018.0,73.0,174.0,,29.620689655172413,66.4
+234779,24,Spain,73,Albacete BP,4.0,1134,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,194.0,,29.379310344827587,66.4
+219937,21,Germany,79,VfL Osnabrück,4.0,1016,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,73.0,185.0,,24.655172413793103,65.2
+203824,24,England,75,Bolton Wanderers,6.0,1091,Right,1.0,3.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,72.0,172.0,,27.517241379310345,65.8
+244020,22,Portugal,75,CD Aves,3.0,1138,Right,1.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,75.0,176.0,,29.20689655172414,65.2
+204354,25,England,72,Scunthorpe United,11.0,1233,Left,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,181.0,,32.793103448275865,65.8
+221601,23,Spain,77,Córdoba CF,2.0,1160,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,194.0,,30.20689655172414,66.2
+210366,24,Germany,72,SV Sandhausen,10.0,1096,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,185.0,,27.586206896551722,66.6
+243759,26,Argentina,69,San Martin de Tucumán,3.0,942,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,71.0,157.0,,22.551724137931036,64.8
+234371,22,France,74,Clermont Foot 63,11.0,857,Left,1.0,3.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,76.0,174.0,,20.103448275862068,64.6
+213407,23,England,74,Plymouth Argyle,14.0,1054,Right,1.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,78.0,179.0,,26.82758620689655,65.6
+192317,25,England,70,Charlton Athletic,4.0,1080,Left,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,72.0,176.0,,27.03448275862069,64.2
+239999,21,Portugal,77,CD Tondela,2.0,951,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,168.0,,23.20689655172414,62.4
+181468,27,Australia,65,PEC Zwolle,3.0,1236,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,73.0,185.0,,33.241379310344826,64.2
+236515,20,Spain,77,Extremadura UD,7.0,1040,Left,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,165.0,,26.82758620689655,62.8
+214762,25,Argentina,71,Defensa y Justicia,3.0,1066,Right,1.0,3.0,1.0,Medium/ Medium,Lean,GK,2017.0,2018.0,75.0,183.0,,27.275862068965516,64.4
+216478,23,England,69,Oxford United,5.0,1249,Right,1.0,2.0,1.0,Medium/ Medium,Stocky,GK,2017.0,2018.0,72.0,190.0,,34.206896551724135,63.2
+205554,24,Czech Republic,71,Livorno,2.0,1076,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,181.0,,27.137931034482758,63.0
+228385,21,England,76,Plymouth Argyle,5.0,1017,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,176.0,,25.82758620689655,62.6
+228410,20,Denmark,75,Oldham Athletic,5.0,1060,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,75.0,187.0,,27.24137931034483,63.4
+219795,22,England,71,Shrewsbury,5.0,1050,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,78.0,181.0,,27.103448275862068,62.4
+230858,20,Italy,72,Padova,2.0,1027,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,183.0,,26.551724137931036,61.2
+229067,21,Germany,74,SC Fortuna Köln,2.0,964,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2020.0,75.0,181.0,,23.275862068965516,62.2
+219637,23,Spain,70,CF Rayo Majadahonda,3.0,1175,Left,1.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,74.0,181.0,,31.20689655172414,62.6
+218387,22,Chile,71,San Luis de Quillota,1.0,1085,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2018.0,75.0,185.0,,28.689655172413794,60.8
+225650,23,England,70,AFC Wimbledon,2.0,1024,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,73.0,176.0,,26.20689655172414,61.2
+209532,23,Austria,70,Kilmarnock,5.0,1088,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,75.0,179.0,,29.03448275862069,59.4
+189909,30,England,62,Lincoln City,2.0,1083,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,72.0,165.0,,28.275862068965516,61.2
+212973,22,Croatia,69,Lillestrøm SK,3.0,1047,Left,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,75.0,196.0,,26.655172413793103,63.4
+208697,24,Republic of Ireland,69,St. Mirren,1.0,1041,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,73.0,170.0,,26.75862068965517,61.2
+232506,29,Japan,63,V-Varen Nagasaki,2.0,882,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,72.0,185.0,,21.24137931034483,59.8
+202125,24,Republic of Ireland,67,Bristol Rovers,4.0,1108,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,209.0,,29.448275862068964,62.8
+204437,25,Italy,66,Hellas Verona,4.0,925,Left,1.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,76.0,185.0,,23.20689655172414,62.4
+226729,20,Belgium,72,Waasland-Beveren,2.0,1023,Right,1.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,76.0,172.0,,26.17241379310345,60.0
+228789,20,Spain,73,Forest Green Rovers,4.0,984,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,78.0,187.0,,25.03448275862069,61.2
+229685,22,England,66,Carlisle United,4.0,1033,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,73.0,159.0,,26.96551724137931,59.0
+240785,19,Italy,79,Cosenza,2.0,984,Right,1.0,1.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,74.0,176.0,,25.03448275862069,60.6
+223804,22,Northern Ireland,65,St. Johnstone FC,4.0,1007,Right,1.0,2.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,72.0,163.0,,26.20689655172414,58.4
+213678,22,Republic of Ireland,68,Macclesfield Town,8.0,1030,Right,1.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,75.0,172.0,,27.103448275862068,57.8
+227529,19,England,65,Bury,1.0,1061,Right,1.0,3.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,76.0,165.0,,27.896551724137932,57.6
+226524,19,Sweden,72,Trelleborgs FF,1.0,1047,Right,1.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2018.0,76.0,176.0,,27.344827586206897,58.6
+245276,20,Saudi Arabia,71,Al Batin,2.0,1164,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,75.0,176.0,,31.862068965517242,57.2
+229368,21,England,69,Rochdale,3.0,905,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,76.0,209.0,,22.896551724137932,56.8
+239358,23,Switzerland,62,Stevenage,1.0,980,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,74.0,163.0,,25.482758620689655,57.0
+223988,21,England,69,Northampton Town,2.0,1058,Right,1.0,2.0,1.0,Medium/ Medium,Lean,GK,2017.0,2019.0,77.0,179.0,,28.137931034482758,54.0
+244620,18,Switzerland,69,FC Luzern,1.0,775,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2019.0,75.0,187.0,,19.03448275862069,53.6
+100899,40,England,52,Yeovil Town,1.0,857,Right,1.0,3.0,1.0,Medium/ Medium,Normal,GK,2017.0,2022.0,73.0,165.0,,23.17241379310345,49.6

@@ -1,0 +1,13 @@
+name: FIFA_Dashboard
+title: FIFA_Dashboard
+username:
+account: fifa-analytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7852273
+bundleId: 6826063
+url: https://fifa-analytics.shinyapps.io/FIFA_Dashboard/
+when: 1675908604.27159
+lastSyncTime: 1675908604.2716
+asMultiple: FALSE
+asStatic: FALSE
